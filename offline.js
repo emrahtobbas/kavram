@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1710230646,
+	"version": 1710231620,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -22,7 +22,6 @@
 		"images/bitkisel-sheet0.png",
 		"images/bitkisel-sheet1.png",
 		"images/sumin-sheet0.png",
-		"images/sumin-sheet1.png",
 		"images/karhid-sheet0.png",
 		"images/hayvan-sheet0.png",
 		"images/yag-sheet0.png",
