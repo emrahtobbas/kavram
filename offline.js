@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1710231620,
+	"version": 1710490997,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -61,6 +61,9 @@
 		"images/kaynakbg-sheet0.png",
 		"images/makarna-sheet0.png",
 		"images/sprite-sheet0.png",
+		"images/hazirlayanlar-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/ekranb-sheet0.png",
 		"media/bitis.m4a",
 		"media/bitis.ogg",
 		"media/buton.m4a",
